@@ -1,0 +1,23 @@
+body {
+ background-color: #7C9473;
+}
+
+h1 {
+  color: #34626c;
+}
+
+h3{
+  color: #34626c;
+}
+
+hr {
+background-color: none;
+border-style: none;
+border-top-style: dotted;
+border-color: tan;
+border-width: 7px;
+width: 1850px;
+}
+img {
+height: 200px;
+}
